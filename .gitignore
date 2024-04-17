@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+ehthumbs_vista.db
+
+# Compiled files
+*.suo
+*.log
+*.bak
+*.cache
+*.tmp
+
+# Dependency directories
+# Bower
+bower_components/
+# Composer
+vendor/
+# npm
+/node_modules/
